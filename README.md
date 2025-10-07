@@ -1,5 +1,5 @@
 
-# 🎳 Bowling Score Calculator (v3)
+# 🎳 Bowling Score Calculator
 
 A simple Node.js script that calculates bowling scores — including bonuses for strikes and spares — based on the values entered in the frames array.
 
